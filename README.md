@@ -1,1 +1,2 @@
-# Supplementary-materials
+This document provides the supplementary materials for the paper “An Optimal Control Approach to Identify the Worst-Case Cascading Failures in Power Systems” by Chao Zhai, Hehong Zhang, Gaoxi Xiao, and Tso-Chien Pan. It aims to demonstrate the validity of the
+proposed model and the optimal control approach through the validation with other cascading failure models (e.g. the COSMIC model), the comparison with the AC power flow model, and the consideration of protective actions (i.e. generation dispatch and load shedding).
